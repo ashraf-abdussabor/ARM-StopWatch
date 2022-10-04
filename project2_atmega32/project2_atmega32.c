@@ -2,7 +2,7 @@
  * project2.c
  *
  *  Created on: Sep 15, 2022
- *      Author: hp 22
+ *      Author: ashraf mohamed abdelsabor
  */
 #include <util/delay.h>
 #include <avr/io.h>
